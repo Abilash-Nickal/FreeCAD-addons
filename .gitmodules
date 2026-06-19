@@ -665,3 +665,6 @@
 	path = yaml-workbench
 	url = https://github.com/Mambix/FreeCAD-yaml-workbench
     branch = master
+[submodule "SKey"]
+	path = SKey
+	url = https://github.com/Abilash-Nickal/FreeCAD-SKey.git
